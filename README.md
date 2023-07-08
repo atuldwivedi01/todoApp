@@ -1,4 +1,4 @@
-```markdown
+
 # Spring Boot Todo App
 
 This is a simple Todo application built with Spring Boot. It allows users to manage their todos by adding, updating, and deleting tasks.
@@ -55,8 +55,6 @@ Contributions are welcome! If you find any issues or want to enhance the applica
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
 Make sure to replace `your-username` in the clone command with your actual GitHub username.
-
-Feel free to modify the README.md file according to your project's specific requirements and additional details.
